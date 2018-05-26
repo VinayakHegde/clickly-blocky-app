@@ -2,4 +2,3 @@
 /.git
 # dependencies
 /node_modules
-/dist
